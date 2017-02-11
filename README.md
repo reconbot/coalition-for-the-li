@@ -1,5 +1,7 @@
 # Hello Coalition for the Liberation of Itinerant Tree-Dwellers!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/coalition-for-the-li.svg)](https://greenkeeper.io/)
+
 ## Deploy instructions
 
 ### GitHub — [Team][2], [Repo][3]
